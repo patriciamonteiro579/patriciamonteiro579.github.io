@@ -1,6 +1,6 @@
 locale: "pt-BR"
-title: Professora Patrícia # Title of your site
-url: "http://www.professorapatricia.co.brm" # the base hostname & protocol for your site
+title: Professora Patrícia Monteiro # Title of your site
+url: "http://www.patriciamonteiro.pro.br" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-92626070-1"
 
@@ -12,12 +12,13 @@ description: > # this means to ignore newlines until "baseurl:"
 # Author details for the jekyll-seo-tag gem
 author:
   name: Patricia Monteiro
-  email: contato@professorapatricia.com.br
+  email: contato@patriciamonteiro.pro.br
   twitter: # twitter username without the @ symbol
+  telefone: (21) 98237-3898
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Strata Reloaded Template
+  name: Professora Patrícia Monteiro
   links:
     - https://github.com/comfusion/strata-reloaded-jekyll-template
 
@@ -40,6 +41,7 @@ webmaster_verifications:
 # CloudCannon
 
 social_icons:
+  - Whatsapp
   - Facebook
   - Google Plus
   - Instagram

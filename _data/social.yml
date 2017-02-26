@@ -1,3 +1,7 @@
+- name: Whatsapp
+  link: 'tel:21982373898'
+  social_icon: Whatsapp
+
 - name: Facebook
   link: 'https://www.facebook.com/ProfessoraPatriciaMonteiro'
   social_icon: Facebook
