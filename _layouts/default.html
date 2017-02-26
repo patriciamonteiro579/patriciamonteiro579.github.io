@@ -26,9 +26,10 @@
 	<body id="top">
     <header id="header">
       <a href="{{ site.url }}" class="image avatar"><img class="editable" src="/images/avatar.jpg" alt="{{ site.author.name }}"></a>
-      <h1 class="editable"><strong>I am <a href="/">Strata Reloaded</a></strong>, a super simple<br>
-      responsive site template freebie<br>
-      adapted by <a href="http://comfusionllc.com">Comfusion LLC</a>.</h1>
+      <h1 class="editable">
+				<strong>Olá, sou <a href="/">{{ site.author.name }}</a></strong><br>
+				{{ site.description }}
+			</h1>
     </header>
 
     {{ content }}
@@ -52,9 +53,7 @@
         {% endif %}
       </ul>
       <ul class="copyright">
-          <li>&copy; Untitled</li>
-          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-          <li>Theme: <a href="http://comfusionllc.com">Comfusion LLC</a></li>
+          <li>&copy; {{ site.author.name }}</li>
       </ul>
     </footer>
 
