@@ -2,6 +2,12 @@
 layout: default
 ---
 <div id="main">
+    <header>
+      <h1>{{ sie.data.principal.titulo  }}</h1>
+      <section>
+        {{ site.data.principal.descricao }}
+      </section>
+    </header>
   <section>
     {% for post in site.posts limit:1 %}
       <header>

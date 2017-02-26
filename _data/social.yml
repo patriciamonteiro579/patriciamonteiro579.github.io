@@ -1,3 +1,7 @@
+titulo: "Professora Patricia Monteiro"
+descricao: "Aulas de quimica, fisica e matematica"
+
+
 - name: Facebook
   link: 'https://www.facebook.com/comfusionllc'
   social_icon: Facebook
@@ -6,3 +10,5 @@
   link: '/feed.xml'
   social_icon: RSS
   new_window: true
+
+
