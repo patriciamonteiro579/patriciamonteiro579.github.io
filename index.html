@@ -7,28 +7,28 @@ layout: default
       <section>
         <h3>Matérias:</h3>
         <ul>
-          {% for materia in site.data.materias %}
+          {% for materia in site.data.inicio.materias %}
             <li>{{materia}}</li>
           {% endfor %}
         </ul>
 
         <h3>Turmas:</h3>
         <ul>
-          {% for turma in site.data.turmas %}
+          {% for turma in site.data.inicio.turmas %}
             <li>{{turma}}</li>
           {% endfor %}
         </ul>
 
         <h3>Regioes do Rio de Janeiro:</h3>
         <ul>
-          {% for regiao in site.data.regioes %}
+          {% for regiao in site.data.inicio.regioes %}
             <li>
               <strong>{{ regiao.nome }}: </strong>
               {{ regiao.descricao }}
             </li>
           {% endfor %}
         </ul>
-        
+
       </section>
     </header>
   <section>
