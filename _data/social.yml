@@ -1,8 +1,15 @@
 - name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
+  link: 'https://www.facebook.com/ProfessoraPatriciaMonteiro'
   social_icon: Facebook
   new_window: true
+  
+- name: Google Plus
+  link: 'https://plus.google.com/u/0/b/101079225014377995063'
+  social_icon: Google Plus
+  new_window: true
+
 - name: RSS
   link: '/feed.xml'
   social_icon: RSS
   new_window: true
+
