@@ -1,6 +1,7 @@
 locale: "pt-BR"
 title: Professora Patrícia Monteiro # Title of your site
-url: "http://www.patriciamonteiro.pro.br" # the base hostname & protocol for your site
+url: "https://www.patriciamonteiro.pro.br" # the base hostname & protocol for your site
+enforce_ssl: "www.patriciamonteiro.pro.br" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-92626070-1"
 
@@ -33,7 +34,7 @@ gems:
 # Jekyll SEO Tag
 webmaster_verifications:
   google: # 1234
-  bing: # 1234
+  bing: 74D588C2641825D75A7257A5512AB618
   alexa: # 1234
   yandex: # 1234
 
