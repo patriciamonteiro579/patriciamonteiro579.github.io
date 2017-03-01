@@ -6,11 +6,11 @@ materias:
 turmas:
     - Fundamental
     - Médio / Técnico
-    - Facudade / Concursos
+    - Faculdade / Concursos
 regioes:
     - nome: Zona Sul
       descricao: Copacabana, Ipanema, Leblon, Botafogo, Flamengo e outros
     - nome: Zona Oeste
-      descricao: São Conrado, Barra da Tijuca, Recreio, Bangu, Iraja e outros
+      descricao: São Conrado, Barra da Tijuca, Recreio, Bangu, Irajá e outros
     - nome: Zona Norte
-      descricao: Tijuca, Meyer e outros
+      descricao: Tijuca e outros
