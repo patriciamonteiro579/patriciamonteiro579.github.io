@@ -6,21 +6,23 @@ layout: default
       <h1>{{ site.data.inicio.titulo }}</h1>
       <section>
         <img src="/images/fulls/03.jpg" class="fit image">
-        <div class="6u 12u(small)">
-          <h3>Matérias:</h3>
-          <ul>
-            {% for materia in site.data.inicio.materias %}
-              <li>{{materia}}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="6u$ 12u(small)">
-          <h3>Turmas:</h3>
-          <ul>
-            {% for turma in site.data.inicio.turmas %}
-              <li>{{turma}}</li>
-            {% endfor %}
-          </ul>
+        <div class="row">
+          <div class="6u 12u(small)">
+            <h3>Matérias:</h3>
+            <ul>
+              {% for materia in site.data.inicio.materias %}
+                <li>{{materia}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="6u$ 12u(small)">
+            <h3>Turmas:</h3>
+            <ul>
+              {% for turma in site.data.inicio.turmas %}
+                <li>{{turma}}</li>
+              {% endfor %}
+            </ul>
+          </div>
         </div>
         <h3>Regiões do Rio de Janeiro:</h3>
         <ul>

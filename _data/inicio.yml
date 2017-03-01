@@ -6,8 +6,7 @@ materias:
 turmas:
     - Fundamental
     - Médio / Técnico
-    - Superior / Facudade / Graduação
-    - Preparatório para Concursos
+    - Facudade / Concursos
 regioes:
     - nome: Zona Sul
       descricao: Copacabana, Ipanema, Leblon, Botafogo, Flamengo e outros
