@@ -4,7 +4,7 @@ baseurl: /
 # Site settings
 title: EnsinoPMG
 email: contato@ensinopmg.com.br
-description: "Agencia de aulas particulares com professores qualificados minuciosamente selecionados."
+description: "Agência de aulas particulares com professores qualificados minuciosamente selecionados."
 
 
 # Team names, titles and social links
@@ -16,15 +16,8 @@ people:
 - name: Ezequiel Bertti
   pic: 2
   position: Desenvolvedor
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
-- name: Tatiana Gigante
+- name: Tathiana Gigante
   pic: 3
   position: Financeiro
 
@@ -34,7 +27,7 @@ social:
     url: https://twitter.com/ensinopmg
   - title: facebook
     url: https://facebook.com/ensinopmg
-  - title: istagram
+  - title: instagram
     url: https://instagram.com/ensinopmg
 
 # Postal address (add as many lines as necessary)
