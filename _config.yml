@@ -9,20 +9,13 @@ description: "Agencia de aulas particulares com professores qualificados minucio
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Patricia Monteiro
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: CEO
 
-- name: Larry Parker
+- name: Ezequiel Bertti
   pic: 2
-  position: Lead Marketer
+  position: Desenvolvedor
   social:
     - title: twitter
       url: #
@@ -31,34 +24,23 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Tatiana Gigante
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Financeiro
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/ensinopmg
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://facebook.com/ensinopmg
+  - title: istagram
+    url: https://instagram.com/ensinopmg
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Av das Américas, Barra da Tijuca
+  - line: Rio de Janeiro, RJ, Brasil
 
 # Build settings
 markdown: kramdown
