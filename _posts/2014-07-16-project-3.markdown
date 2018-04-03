@@ -4,8 +4,8 @@ subtitle: História, Geografia, Sociologia e Filosofia
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: Humanas.png
+thumbnail: Humanas.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
