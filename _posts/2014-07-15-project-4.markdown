@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Línguas Estrangeiras
+subtitle: Inglês, Espanhol e Francês
 layout: default
 modal-id: 4
 date: 2014-07-15
