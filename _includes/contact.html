@@ -12,21 +12,21 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="control-group form-group">
-                                    <input type="text" class="form-control" placeholder="Seu nome *" id="name" required data-validation-required-message="Por favor, informe seu nome.">
+                                    <input type="text" class="form-control" placeholder="Seu nome *" name="nome" id="name" required data-validation-required-message="Por favor, informe seu nome.">
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group form-group">
-                                    <input type="email" class="form-control" placeholder="Sem E-mail *" id="email" required data-validation-required-message="Por favor, informe seu e-mail.">
+                                    <input type="email" class="form-control" placeholder="Sem E-mail *" name="_replyto" id="email" required data-validation-required-message="Por favor, informe seu e-mail.">
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group form-group">
-                                    <input type="tel" class="form-control" placeholder="Seu Telefone *" id="phone" required data-validation-required-message="Por favor, informe seu telefone.">
+                                    <input type="tel" class="form-control" placeholder="Seu Telefone *" name="telefone" id="phone" required data-validation-required-message="Por favor, informe seu telefone.">
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="control-group form-group">
-                                    <textarea class="form-control" placeholder="Sua Mensagem *" id="message" required data-validation-required-message="Por favor, digite sua mensagem."></textarea>
+                                    <textarea class="form-control" placeholder="Sua Mensagem *" name="mensagem" id="message" required data-validation-required-message="Por favor, digite sua mensagem."></textarea>
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
@@ -36,6 +36,7 @@
                                 <button type="submit" class="btn btn-xl">Enviar</button>
                             </div>
                         </div>
+                        <input type="hidden" name="_subject" value="ENSINO PMG - Nova mensagem"/>
                     </form>
                     <div class="row">
                         <h2 class="section-heading">Ligue para nos.</h2>
