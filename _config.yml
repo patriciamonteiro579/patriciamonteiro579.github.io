@@ -10,16 +10,13 @@ description: "Agência de aulas particulares com professores qualificados minuci
 # Team names, titles and social links
 people:
 - name: Patricia Monteiro
-  pic: 1
+  pic: paty
   position: CEO
 
-- name: Ezequiel Bertti
-  pic: 2
-  position: Desenvolvedor
+- name: Daniel da Motta
+  pic: dani
+  position: Recrutamento e Seleção
 
-- name: Tathiana Gigante
-  pic: 3
-  position: Financeiro
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
